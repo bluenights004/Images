@@ -21,4 +21,14 @@ vault.updateGlobalPositionData({
 ```
 ### 4. Triangle facing right
 
+<details>
 <summary>▶ Click to reveal</summary>
+
+This is the hidden content that becomes visible when the triangle is clicked.
+
+- You can add a list
+- Or any other Markdown content
+- Including **bold** text and [links](https://example.com).
+
+</details>
+
