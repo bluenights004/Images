@@ -22,7 +22,7 @@ vault.updateGlobalPositionData({
 ### 4. Triangle facing right
 
 <details>
-<summary>▶ Click to reveal</summary>
+<summary> Click to reveal</summary>
 
 This is the hidden content that becomes visible when the triangle is clicked.
 
