@@ -19,3 +19,6 @@ vault.updateGlobalPositionData({
             additionalSizeDelta: -int256(position.additionalSize)
         });
 ```
+### 4. Triangle facing right
+
+<summary>▶ Click to reveal</summary>
